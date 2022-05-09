@@ -4,7 +4,7 @@
  Para instalar as depêncidas.
 
 ### `npm start`
- Abrir[https://localhost:3000].(https://localhost:3000) para visualizar no browser.
+ Abrir[https://localhost:3000](https://localhost:3000) para visualizar no browser.
 
 ### `npm test`
   Testes dos requisitos solicitados no projeto pela [Trybe](https://www.betrybe.com/).
