@@ -11,7 +11,7 @@
 ### `npm test`
   Testes dos requisitos solicitados no projeto pela [Trybe](https://www.betrybe.com/).
 
-O projeto Solar System, foi meu primeiro projeto feito no módulo de front end na [Trybe](https://www.betrybe.com/). Esse projeto teve como objetivo verificar a capacidade de:
+O projeto Solar System foi meu primeiro projeto feito no módulo de front end na [Trybe](https://www.betrybe.com/). Esse projeto teve como objetivo verificar a capacidade de:
 - Utilizar JSX no React.
 - Método `render()` para renderizar componentes.
 - `import` para transferir componentes em diferentes arquivos.
