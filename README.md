@@ -1,5 +1,7 @@
 #Projeto Solar System
 
+![Solar-System](/solar-system.gif)
+
 ### `npm install`
  Para instalar as depêncidas.
 
@@ -17,7 +19,3 @@ O projeto Solar System, foi meu primeiro projeto feito no módulo de front end n
 - Criar múltiplos componentes a partir de um array.
 - Usar `props`
 - Utilizar `PropTypes` para validar as `props de um componente`.
-
-### Demonstração da aplicação.
-
-![Solar-System](/solar-system.gif)
