@@ -10,6 +10,8 @@
 
 ### `npm test`
   Testes dos requisitos solicitados no projeto pela [Trybe](https://www.betrybe.com/).
+  
+ ### Sobre o projeto.
 
 Neste projeto eu desenvolvi um modelo de sistema solar, com a utilidade de visualizar todos os planetas do sistema solar e as cartas com informações sobre missões espaciais. Foi meu primeiro projeto do módulo de Desenvolvimento Front-end na [Trybe](https://www.betrybe.com/). Esse projeto teve como objetivo verificar a capacidade de:
 - Utilizar JSX no React.
